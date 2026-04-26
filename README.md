@@ -45,8 +45,7 @@ To ensure the reliability of the results, the following metrics and techniques w
 ## Further Documentation
 For an in-depth analysis of the experiments, detailed parameter tuning for each model, statistical comparison tables, and final conclusions, **please refer to the full project documentation available in this repository.**
 
-> [!IMPORTANT]
-> **[Access the Full Documentation Here](./Algoritmi_de_clasificare.pdf)** 
+**[Access the Full Documentation Here](Algoritmi_de_clasificare.pdf)** 
 
 ---
 
